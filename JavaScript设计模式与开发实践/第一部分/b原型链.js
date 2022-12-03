@@ -1,4 +1,3 @@
-
 var obj = {name:'seven'}
 var A = function() {}
 A.prototype = obj
